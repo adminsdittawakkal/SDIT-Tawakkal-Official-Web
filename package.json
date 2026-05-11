@@ -1,0 +1,9 @@
+{
+  "name": "sdit-tawakkal-website",
+  "version": "1.0.0",
+  "description": "SDIT Tawakkal Pacitan School Website",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  }
+}
